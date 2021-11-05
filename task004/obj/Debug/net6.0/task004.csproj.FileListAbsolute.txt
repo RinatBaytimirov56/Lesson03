@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\Lesson03\task004\bin\Debug\net6.0\task004.exe
+C:\Users\Home\Desktop\Lesson03\task004\bin\Debug\net6.0\task004.deps.json
+C:\Users\Home\Desktop\Lesson03\task004\bin\Debug\net6.0\task004.runtimeconfig.json
+C:\Users\Home\Desktop\Lesson03\task004\bin\Debug\net6.0\task004.dll
+C:\Users\Home\Desktop\Lesson03\task004\bin\Debug\net6.0\ref\task004.dll
+C:\Users\Home\Desktop\Lesson03\task004\bin\Debug\net6.0\task004.pdb
+C:\Users\Home\Desktop\Lesson03\task004\obj\Debug\net6.0\task004.GlobalUsings.g.cs
+C:\Users\Home\Desktop\Lesson03\task004\obj\Debug\net6.0\task004.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Lesson03\task004\obj\Debug\net6.0\task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Lesson03\task004\obj\Debug\net6.0\task004.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Lesson03\task004\obj\Debug\net6.0\task004.AssemblyInfo.cs
+C:\Users\Home\Desktop\Lesson03\task004\obj\Debug\net6.0\task004.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Lesson03\task004\obj\Debug\net6.0\task004.dll
+C:\Users\Home\Desktop\Lesson03\task004\obj\Debug\net6.0\ref\task004.dll
+C:\Users\Home\Desktop\Lesson03\task004\obj\Debug\net6.0\task004.pdb
+C:\Users\Home\Desktop\Lesson03\task004\obj\Debug\net6.0\task004.genruntimeconfig.cache
